@@ -7,7 +7,7 @@ class Device < Formula
   license ""
 
   def install
-    bin.install "device"
+    bin.install "dv"
   end
 
 end
