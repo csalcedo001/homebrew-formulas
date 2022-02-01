@@ -1,9 +1,9 @@
 
 class Device < Formula
   desc "Device connection manager"
-  homepage ""
-  url "https://github.com/csalcedo001/device/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "be09d312f69e09adda1ca5eead5aa882d3e7156804acc801fea1e199499e4d79"
+  homepage "https://github.com/csalcedo001/device"
+  url "https://github.com/csalcedo001/device/archive/refs/tags/v1.0.4.tar.gz"
+  sha256 "6ee0cd583f554ce80797ce63ef2ff24410e80d678131ae3a30da6744aa5f1b10"
   license ""
 
   def install
